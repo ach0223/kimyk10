@@ -1,0 +1,146 @@
+		nav{width: 200px;position: sticky;top:35px;padding-left: 5px;text-align: center;font-weight: 400;font-size: 0.8em;z-index: 100}
+				
+		ul{text-align: center;}
+		li{list-style-type: none;width:100%;text-align: center;float: vertical; margin-left: -18px;margin-top: 30px}
+		
+
+		a{text-decoration:none;color: gray;}
+		
+		
+		a:hover{color: #f32d51;transition: 1s;}
+		
+		.row{width:1080px;margin:auto;margin-bottom: 50px;}
+		.col-1{width:160px;margin:0px 10px;}
+		.col-2{width:340px;margin:0px 10px;}
+		.col-3{width:520px;margin:0px 10px;}
+		.col-4{width:700px;margin:0px 10px;}
+		.col-5{width:880px;margin:0px 10px;}
+		.col-6{width:1060px;margin:0px 10px;}
+		
+		html{font-family: 'Noto Sans KR', sans-serif;scroll-behavior: smooth;}
+		body,h1,h2,h3,p{margin:0;padding:0;word-break: keep-all;}
+		h2{line-height: 1.35;word-spacing: -1px;letter-spacing: -1px}
+		p{line-height: 1.7;word-spacing: px}
+		.a{background:url('../main/main.jpg');background-size: cover;height: 800px;}
+		.b{padding-right: 150px;padding-top: 50px;font-size: 5em;font-weight: 800; text-align: right;color: white}
+		.c{padding-right:  150px;font-size: 2.5em;font-weight: 600;text-align: right;color: white;margin-top: -20px}
+		.d{padding-right: 150px;padding-top: 10px;text-align: right;color: white}
+		
+		.e{font-size: 2.5em;margin-top: 80px;margin-bottom: 10px;z-index: 100;color: white;padding-top: 50px;z-index: 200;position: relative; }
+
+		.f{color: lightgray;font-weight: 500; margin-bottom: 20px;font-size: 1.5em}
+		.g{margin-top: 15px;line-height: 1.7;color: white;font-weight: 100}
+
+		.h{display: flex;}
+		.i{position: absolute;right: 250px;top:1800px;z-index: -1}
+		.j{display: flex;margin-top: -190px;}
+		.k{margin-top:15px;display: flex;font-weight: 400}
+		.l{display: flex;line-height: 1.7;color: white;font-weight: 100;position: relative;z-index: 250}
+		.m{position: relative;top: -350px;left: 360px;z-index: 100}
+		.n{margin-top: -356px}
+
+		.o{font-size: 2.5em;margin-top: 80px;margin-bottom: 10px;z-index: 300;text-align: right;color: white;position: relative; }
+		.p{color: lightgray;font-weight: 500; margin-bottom: 20px;font-size: 1.5em;text-align: right;}
+		.q{display: flex;line-height: 1.7;text-align: right;color: white;font-weight: 100}
+		.r{position: relative;top: -470px;left: 80px;z-index: 200}
+		.s{margin-top: -475px;margin-bottom: -15px}
+		.t{display: flex;margin-top: 15px}
+		.u{position: relative;top: -400px;left: 480px;z-index: 100}
+		.v{margin-top: -405px}
+		
+		.tokyofirst{background-color: black;height: 1000px;margin-top: -710px;z-index: -2;}
+
+		.london{;background-color: black;height: 4200px;z-index: -2;margin-top: -80px}
+		.young{font-size: 2.5em;margin-top: 80px;margin-bottom: 10px;z-index: 100;color: black; }
+		
+		.pro{font-size: 2.5em;margin-top: 80px;margin-bottom: 10px;z-index: 100;color: black;;text-align: right; }
+		.pro2{color: lightgray;font-weight: 500; margin-bottom: 20px;font-size: 1.5em;text-align: right;}
+		.pro3{display: flex;margin-top: 20px}
+		.pro4{display: flex;margin-top: 20px}
+		.prodebut{padding-bottom: 30px}
+		.hh{display: flex;margin-bottom: 15px}
+		.hhh{display: flex;margin-top: 80px;margin-bottom: 80px}
+		.hhhh{display: flex;margin-top: 20px;padding-bottom: 200px}
+
+		.asian{margin-top: -250px;margin-bottom: 250px}
+		.asiantext1{margin-top: 10px;margin-bottom: 50px}
+		.asiantext2{margin-top: -170px}
+
+		.mvp{padding-bottom: 200px}
+
+		.rio{background-color: black;height: 3600px;z-index: -2;margin-top: -80px}
+		.rio2{position: relative;top: -300px;left: 10px;z-index: 200}
+		.sikbbang{margin-top: -306px;margin-bottom: -40px}
+		.rio3{position: relative;top: -150px;left: 480px;z-index: 100}
+		.rio4{margin-top: -900px}
+		.rio5{margin-top: 30px}
+
+		.chinaimg{display: flex;margin-top: 20px}
+		.chinatext{margin-top: -115px}
+
+
+		.ecz{margin-top: -120px;padding-bottom: 200px}
+		.eczt{display: flex;margin-top: -190px}
+
+		.tokyoo{margin-top: -370px}
+		.tokyo5{position: relative;top: -470px;left: -25px;z-index: 200}
+		.to{display: flex;margin-top: 30px}
+		.tokyofinal{background-color: black;height: 3600px;z-index: -2;margin-top: -80px}
+
+
+
+		.footer{height: 400px;background-color: #dc163a}
+		.footertitle1{color: white;font-size: 4em;font-weight: 800;padding-top: 30px}
+		.footertitle2{color: white}
+		.footertext{color: white;margin-top: 20px;font-weight: 200;font-size: 0.7em;}
+		
+
+		
+		
+
+		.bg{background:url('../2012/2012bg.jpg');background-size: cover;background-attachment: fixed;background-repeat: no-repeat;height: 500px;}
+
+		.bg1{background:url('../2016/2016bg.jpg');background-size: cover;background-attachment: fixed;background-repeat: no-repeat;height: 500px;}
+		.bg2{background:url('../2020/2020bg.jpg');background-size: cover;background-attachment: fixed;background-repeat: no-repeat;height: 500px;}
+
+		.londonfont{color: white;font-size: 4em;font-weight: 700;padding-left: 100px;padding-top: 60px;text-align: right;}
+		.londonfont2{color: white;font-size: 1.5em;font-weight: 300;padding-left: 95px;text-align: right;}
+
+		.riofont{color: white;font-size: 4em;font-weight: 700;padding-top: 60px;text-align: left;}
+		.riofont2{color: white;font-size: 1.5em;font-weight: 500;text-align: left;}
+
+		.gradation{height:300px; background-color: black;background-image: linear-gradient(black, white);position: relative;z-index: -1}
+
+		.younger{margin-top: -200px;padding-bottom: 20px}
+
+		.container {position: relative; width: 100%;}
+
+		.image {display: block; width: 100%; height: auto;}
+
+		.overlay { position: absolute; top: 0; bottom: 0; left: 0;  right: 0; height: 100%; width: 100%; opacity: 0; transition: .5s ease;background:url(../thumb/thumb1.jpg);}
+		
+
+
+
+		.container:hover .overlay {opacity: 1;}
+
+		.text { color: white; font-weight: 600;font-size: 30px; position: absolute;  top: 20%; left: 85%; -webkit-transform: translate(50%, -50%);  -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); text-align: right;line-height: 1.4}
+		.text-2{font-size: 15px; font-weight: 300;padding-top: 15px}
+
+		#g{position: sticky;padding-left:20px;top: 10px;
+			animation: updown 2.5s infinite alternate;}
+		
+		@keyframes updown {
+			from{top:80px;}
+			to{top: 490px;}
+		}
+
+		#t{position: sticky;margin-left: 1360px;padding-top: -200px;
+			animation: toptop 1.5s cubic-bezier(.58,.01,.94,.67) infinite alternate;z-index: 100}
+		
+		@keyframes toptop {
+			from{top: 450px;}
+			to{top: 610px;}
+				}
+
+
